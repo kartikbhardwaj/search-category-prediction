@@ -4,7 +4,6 @@ Lightweight workspace for exploring the Shopping Queries ESCI dataset and runnin
 
 Contents
 - search_auditor notebook: [search_auditor.ipynb](search_auditor.ipynb)
-- data loader: [data_loader.py](data_loader.py)
 - requirements: [requirements.txt](requirements.txt)
 - raw dataset: [data/shopping_queries_dataset_examples.parquet](data/shopping_queries_dataset_examples.parquet), [data/shopping_queries_dataset_products.parquet](data/shopping_queries_dataset_products.parquet), [data/shopping_queries_dataset_sources.csv](data/shopping_queries_dataset_sources.csv)
 - processed output: [processed_data/shopping_queries_dataset_esci_E_with_tags.xlsx](processed_data/shopping_queries_dataset_esci_E_with_tags.xlsx)
